@@ -1,2 +1,1 @@
-# app-landing-strapi
-Strapi Landing Page
+# Strapi Landing Page
